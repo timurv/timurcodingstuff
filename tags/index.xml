@@ -6,6 +6,35 @@
     <description>Recent content in Tags on Timur Coding Stuff</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2025 11:15:49 +1100</lastBuildDate>
     <atom:link href="https://timurv.github.io/timurcodingstuff/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Snippets</title>
+      <link>https://timurv.github.io/timurcodingstuff/tags/code-snippets/</link>
+      <pubDate>Fri, 31 Jan 2025 11:15:49 +1100</pubDate>
+      <guid>https://timurv.github.io/timurcodingstuff/tags/code-snippets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://timurv.github.io/timurcodingstuff/tags/development/</link>
+      <pubDate>Fri, 31 Jan 2025 11:15:49 +1100</pubDate>
+      <guid>https://timurv.github.io/timurcodingstuff/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>https://timurv.github.io/timurcodingstuff/tags/learning/</link>
+      <pubDate>Fri, 31 Jan 2025 11:15:49 +1100</pubDate>
+      <guid>https://timurv.github.io/timurcodingstuff/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://timurv.github.io/timurcodingstuff/tags/projects/</link>
+      <pubDate>Fri, 31 Jan 2025 11:15:49 +1100</pubDate>
+      <guid>https://timurv.github.io/timurcodingstuff/tags/projects/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

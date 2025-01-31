@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Timur Coding Stuff</title>
-    <link>https://timurv.github.io/timurcodingstuff/</link>
-    <description>Recent content on Timur Coding Stuff</description>
+    <title>Code Snippets on Timur Coding Stuff</title>
+    <link>https://timurv.github.io/timurcodingstuff/tags/code-snippets/</link>
+    <description>Recent content in Code Snippets on Timur Coding Stuff</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2025 11:15:49 +1100</lastBuildDate>
-    <atom:link href="https://timurv.github.io/timurcodingstuff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://timurv.github.io/timurcodingstuff/tags/code-snippets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to My Blog: A Place for Code and Projects</title>
       <link>https://timurv.github.io/timurcodingstuff/posts/my-first-post/</link>
