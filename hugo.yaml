@@ -1,7 +1,7 @@
 baseURL: https://timurv.github.io/timurcodingstuff/
 languageCode: en-us
 title: Timur Coding Stuff
-theme: ["PaperMod"]
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
