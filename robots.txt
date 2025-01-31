@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://timurvafin.blog/sitemap.xml
+Sitemap: https://timurv.github.io/timurcodingstuff/sitemap.xml
