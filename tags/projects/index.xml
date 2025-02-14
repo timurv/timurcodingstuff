@@ -4,7 +4,7 @@
     <title>Projects on Timur Coding Stuff</title>
     <link>https://timurvafin.blog/tags/projects/</link>
     <description>Recent content in Projects on Timur Coding Stuff</description>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2025 11:15:49 +1100</lastBuildDate>
     <atom:link href="https://timurvafin.blog/tags/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://timurvafin.blog/posts/my-first-post/</link>
       <pubDate>Fri, 31 Jan 2025 11:15:49 +1100</pubDate>
       <guid>https://timurvafin.blog/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-blog-a-place-for-code-and-projects&#34;&gt;Welcome to My Blog: A Place for Code and Projects&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Welcome to my blog! I’ve decided to create this space as a personal knowledge base where I can store useful code snippets, document my projects, and track their evolution over time.&lt;/p&gt;
 &lt;h2 id=&#34;why-this-blog&#34;&gt;Why This Blog?&lt;/h2&gt;
 &lt;p&gt;As a developer, I often revisit past code, whether it’s a quick Python script, a Vue.js component, or a backend API. Instead of digging through old repositories or scattered notes, I wanted a structured way to keep track of useful solutions and ideas.&lt;/p&gt;</description>
