@@ -7,8 +7,6 @@ tags: ["development", "code snippets", "projects", "learning"]
 
 ---
 
-# Welcome to My Blog: A Place for Code and Projects
-
 ## Introduction
 
 Welcome to my blog! I’ve decided to create this space as a personal knowledge base where I can store useful code snippets, document my projects, and track their evolution over time.
