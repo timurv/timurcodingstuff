@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Timur Coding Stuff</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2025 11:15:49 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 21:40:26 +1100</lastBuildDate>
     <atom:link href="https://timurvafin.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upgading OS on my MacbookPro Mid-2012</title>
+      <link>https://timurvafin.blog/posts/upgadingmac/</link>
+      <pubDate>Fri, 14 Feb 2025 21:40:26 +1100</pubDate>
+      <guid>https://timurvafin.blog/posts/upgadingmac/</guid>
+      <description>&lt;p&gt;I love my MacBook Pro mid-2012. It served me well until I bought the one with M1 chip. I waited for a long time to updgrade because each new line of the macbooks seemed to be worth somehow. I was really frustrated when Apple decided to solder RAM and then removed the ports until it reached an absolutely trash when they introduced useless touchbar, removed usb-a and hdmi ports, had problems with display cable and an awful keyboard.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to My Blog: A Place for Code and Projects</title>
       <link>https://timurvafin.blog/posts/my-first-post/</link>
