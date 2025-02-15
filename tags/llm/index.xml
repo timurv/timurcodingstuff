@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Macbook Pro on Timur Coding Stuff</title>
-    <link>https://timurvafin.blog/tags/macbook-pro/</link>
-    <description>Recent content in Macbook Pro on Timur Coding Stuff</description>
+    <title>Llm on Timur Coding Stuff</title>
+    <link>https://timurvafin.blog/tags/llm/</link>
+    <description>Recent content in Llm on Timur Coding Stuff</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2025 18:42:25 +1100</lastBuildDate>
-    <atom:link href="https://timurvafin.blog/tags/macbook-pro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://timurvafin.blog/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ollama set up and my use cases</title>
       <link>https://timurvafin.blog/posts/ollama_use/</link>
@@ -16,13 +16,6 @@
       <description>&lt;p&gt;After I successfully installed Ventura to my old mac (see previous post) I went straight to installing Ollama and trying models.
 I have used following youtube tutorial: &lt;a href=&#34;https://www.youtube.com/watch?v=GWB9ApTPTv4&#34;&gt;https://www.youtube.com/watch?v=GWB9ApTPTv4&lt;/a&gt; and I can say it is really good. And Ollama documentation is great as well: &lt;a href=&#34;https://github.com/ollama/ollama/blob/main/README.md&#34;&gt;https://github.com/ollama/ollama/blob/main/README.md&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;So far I tried running llama 3.2 7b and codegemma 7b. After getting used to chat gpt this seems like crazy slow. But, given that I have specific usecases in mind that might still fit me well.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Upgrading OS on my MacbookPro Mid-2012</title>
-      <link>https://timurvafin.blog/posts/upgadingmac/</link>
-      <pubDate>Fri, 14 Feb 2025 21:40:26 +1100</pubDate>
-      <guid>https://timurvafin.blog/posts/upgadingmac/</guid>
-      <description>&lt;p&gt;I love my MacBook Pro mid-2012. It served me well until I bought the one with M1 chip. I waited for a long time to updgrade because each new line of the macbooks seemed to be worth somehow. I was really frustrated when Apple decided to solder RAM and then removed the ports until it reached an absolutely trash when they introduced useless touchbar, removed usb-a and hdmi ports, had problems with display cable and an awful keyboard.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
