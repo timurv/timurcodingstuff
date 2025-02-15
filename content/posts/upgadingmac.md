@@ -1,7 +1,7 @@
 ---
 date: '2025-02-14T21:40:26+11:00'
 draft: false
-title: 'Upgading OS on my MacbookPro Mid-2012'
+title: 'Upgrading OS on my MacbookPro Mid-2012'
 disableShare: true
 tags: ["macbook pro", "apple"]
 ---
