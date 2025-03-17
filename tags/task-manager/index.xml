@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on Timur Coding Stuff</title>
-    <link>https://timurvafin.blog/tags/projects/</link>
-    <description>Recent content in Projects on Timur Coding Stuff</description>
+    <title>Task Manager on Timur Coding Stuff</title>
+    <link>https://timurvafin.blog/tags/task-manager/</link>
+    <description>Recent content in Task Manager on Timur Coding Stuff</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Mar 2025 17:23:04 +1100</lastBuildDate>
-    <atom:link href="https://timurvafin.blog/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://timurvafin.blog/tags/task-manager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Task managers</title>
       <link>https://timurvafin.blog/posts/taskmanagers/</link>
@@ -25,16 +25,6 @@
 &lt;li&gt;*Telegram support - I can just message to add a task&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;I ended up using Microsoft OneNote as it&amp;rsquo;s multi-platform and allows me to add stuff quickly. I like that I can see the tasks, and when I plan for the next week, I can just copy-paste from the previous one. And because it&amp;rsquo;s free-format, it allows fine-tuning as needed. However, it doesn&amp;rsquo;t have any analytics, and when I set up a system for a week, I have to double-check to see how my weekly tasks align with monthly or yearly goals. Also, at the beginning of the week, I might have one plan, but sometimes the week requires adjustments, and I end up adding more tasks later in the week. It&amp;rsquo;s alright, but the problem is that my original tasks are still there and create a sense of stagnation. Therefore, I don&amp;rsquo;t understand - should I plan better? How much should I reserve for additional tasks? And what&amp;rsquo;s even achievable?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to My Blog: A Place for Code and Projects</title>
-      <link>https://timurvafin.blog/posts/my-first-post/</link>
-      <pubDate>Fri, 31 Jan 2025 11:15:49 +1100</pubDate>
-      <guid>https://timurvafin.blog/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Welcome to my blog! I’ve decided to create this space as a personal knowledge base where I can store useful code snippets, document my projects, and track their evolution over time.&lt;/p&gt;
-&lt;h2 id=&#34;why-this-blog&#34;&gt;Why This Blog?&lt;/h2&gt;
-&lt;p&gt;As a developer, I often revisit past code, whether it’s a quick Python script, a Vue.js component, or a backend API. Instead of digging through old repositories or scattered notes, I wanted a structured way to keep track of useful solutions and ideas.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

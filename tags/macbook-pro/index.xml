@@ -4,7 +4,7 @@
     <title>Macbook Pro on Timur Coding Stuff</title>
     <link>https://timurvafin.blog/tags/macbook-pro/</link>
     <description>Recent content in Macbook Pro on Timur Coding Stuff</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2025 18:42:25 +1100</lastBuildDate>
     <atom:link href="https://timurvafin.blog/tags/macbook-pro/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +13,15 @@
       <link>https://timurvafin.blog/posts/ollama_use/</link>
       <pubDate>Sat, 15 Feb 2025 18:42:25 +1100</pubDate>
       <guid>https://timurvafin.blog/posts/ollama_use/</guid>
-      <description>&lt;p&gt;After I successfully installed Ventura to my old mac (see previous post) I went straight to installing Ollama and trying models.
-I have used following youtube tutorial: &lt;a href=&#34;https://www.youtube.com/watch?v=GWB9ApTPTv4&#34;&gt;https://www.youtube.com/watch?v=GWB9ApTPTv4&lt;/a&gt; and I can say it is really good. And Ollama documentation is great as well: &lt;a href=&#34;https://github.com/ollama/ollama/blob/main/README.md&#34;&gt;https://github.com/ollama/ollama/blob/main/README.md&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;So far I tried running llama 3.2 7b and codegemma 7b. After getting used to chat gpt this seems like crazy slow. But, given that I have specific usecases in mind that might still fit me well.&lt;/p&gt;</description>
+      <description>&lt;p&gt;After successfully installing Ventura on my old Mac (see previous post), I went straight to installing Llama and trying out models. I used the following YouTube tutorial: &lt;a href=&#34;https://www.youtube.com/watch?v=GWB9ApTPTv4&#34;&gt;https://www.youtube.com/watch?v=GWB9ApTPTv4&lt;/a&gt;, which I found to be really good. The Llama documentation is also great: &lt;a href=&#34;https://github.com/ollama/ollama/blob/main/README.md&#34;&gt;https://github.com/ollama/ollama/blob/main/README.md&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far, I have tried running Llama 3.2 7B and CodeGemma 7B. After getting used to Chat GPT, this seems like a significant slowdown. However, given that I have specific use cases in mind, it might still be suitable for me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Upgrading OS on my MacbookPro Mid-2012</title>
       <link>https://timurvafin.blog/posts/upgadingmac/</link>
       <pubDate>Fri, 14 Feb 2025 21:40:26 +1100</pubDate>
       <guid>https://timurvafin.blog/posts/upgadingmac/</guid>
-      <description>&lt;p&gt;I love my MacBook Pro mid-2012. It served me well until I bought the one with M1 chip. I waited for a long time to updgrade because each new line of the macbooks seemed to be worth somehow. I was really frustrated when Apple decided to solder RAM and then removed the ports until it reached an absolutely trash when they introduced useless touchbar, removed usb-a and hdmi ports, had problems with display cable and an awful keyboard.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I love my MacBook Pro mid-2012; it served me well until I bought the one with the M1 chip. I waited for a long time to upgrade because each new line of MacBooks seemed somehow worth it. However, I was really frustrated when Apple decided to solder RAM and then removed the ports, which eventually reached an absolute low point when they introduced the useless Touch Bar, removed USB-A and HDMI ports, had problems with the display cable, and featured an awful keyboard.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

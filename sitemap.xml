@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://timurvafin.blog/tags/development/</loc>
+    <lastmod>2025-03-17T17:23:04+11:00</lastmod>
+  </url><url>
+    <loc>https://timurvafin.blog/tags/learning/</loc>
+    <lastmod>2025-03-17T17:23:04+11:00</lastmod>
+  </url><url>
+    <loc>https://timurvafin.blog/posts/</loc>
+    <lastmod>2025-03-17T17:23:04+11:00</lastmod>
+  </url><url>
+    <loc>https://timurvafin.blog/tags/projects/</loc>
+    <lastmod>2025-03-17T17:23:04+11:00</lastmod>
+  </url><url>
+    <loc>https://timurvafin.blog/tags/</loc>
+    <lastmod>2025-03-17T17:23:04+11:00</lastmod>
+  </url><url>
+    <loc>https://timurvafin.blog/tags/task-manager/</loc>
+    <lastmod>2025-03-17T17:23:04+11:00</lastmod>
+  </url><url>
+    <loc>https://timurvafin.blog/posts/taskmanagers/</loc>
+    <lastmod>2025-03-17T17:23:04+11:00</lastmod>
+  </url><url>
+    <loc>https://timurvafin.blog/</loc>
+    <lastmod>2025-03-17T17:23:04+11:00</lastmod>
+  </url><url>
     <loc>https://timurvafin.blog/tags/llm/</loc>
     <lastmod>2025-02-15T18:42:25+11:00</lastmod>
   </url><url>
@@ -14,15 +38,6 @@
     <loc>https://timurvafin.blog/posts/ollama_use/</loc>
     <lastmod>2025-02-15T18:42:25+11:00</lastmod>
   </url><url>
-    <loc>https://timurvafin.blog/posts/</loc>
-    <lastmod>2025-02-15T18:42:25+11:00</lastmod>
-  </url><url>
-    <loc>https://timurvafin.blog/tags/</loc>
-    <lastmod>2025-02-15T18:42:25+11:00</lastmod>
-  </url><url>
-    <loc>https://timurvafin.blog/</loc>
-    <lastmod>2025-02-15T18:42:25+11:00</lastmod>
-  </url><url>
     <loc>https://timurvafin.blog/tags/apple/</loc>
     <lastmod>2025-02-14T21:40:26+11:00</lastmod>
   </url><url>
@@ -30,15 +45,6 @@
     <lastmod>2025-02-14T21:40:26+11:00</lastmod>
   </url><url>
     <loc>https://timurvafin.blog/tags/code-snippets/</loc>
-    <lastmod>2025-01-31T11:15:49+11:00</lastmod>
-  </url><url>
-    <loc>https://timurvafin.blog/tags/development/</loc>
-    <lastmod>2025-01-31T11:15:49+11:00</lastmod>
-  </url><url>
-    <loc>https://timurvafin.blog/tags/learning/</loc>
-    <lastmod>2025-01-31T11:15:49+11:00</lastmod>
-  </url><url>
-    <loc>https://timurvafin.blog/tags/projects/</loc>
     <lastmod>2025-01-31T11:15:49+11:00</lastmod>
   </url><url>
     <loc>https://timurvafin.blog/posts/my-first-post/</loc>

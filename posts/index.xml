@@ -4,25 +4,42 @@
     <title>Posts on Timur Coding Stuff</title>
     <link>https://timurvafin.blog/posts/</link>
     <description>Recent content in Posts on Timur Coding Stuff</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 18:42:25 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 17:23:04 +1100</lastBuildDate>
     <atom:link href="https://timurvafin.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Task managers</title>
+      <link>https://timurvafin.blog/posts/taskmanagers/</link>
+      <pubDate>Mon, 17 Mar 2025 17:23:04 +1100</pubDate>
+      <guid>https://timurvafin.blog/posts/taskmanagers/</guid>
+      <description>&lt;p&gt;I like to set up tasks for the week, month, or year, and it really helps to offload thoughts and be more productive. Unfortunately, I am not always consistent about it. And I wish for a system that would help with it. This led me to try multiple different apps, and now I have a long love-hate relationship with task managers.&lt;/p&gt;
+&lt;h2 id=&#34;what-an-ideal-task-manager-look-like-for-me&#34;&gt;What an ideal task manager look like for me?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Progress - many task managers make the task disappear once it&amp;rsquo;s done! It doesn&amp;rsquo;t bring any joy.&lt;/li&gt;
+&lt;li&gt;Multiple buckets for different tasks&lt;/li&gt;
+&lt;li&gt;Analytics! I do love numbers and would like to see my capacity.&lt;/li&gt;
+&lt;li&gt;Multi-platform - has a mobile app or is at least adjusted for mobile screens, but has full functionality on desktop&lt;/li&gt;
+&lt;li&gt;Not too complicated; it should be easy to add tasks&lt;/li&gt;
+&lt;li&gt;Goals - group tasks for certain goals&lt;/li&gt;
+&lt;li&gt;*Telegram support - I can just message to add a task&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I ended up using Microsoft OneNote as it&amp;rsquo;s multi-platform and allows me to add stuff quickly. I like that I can see the tasks, and when I plan for the next week, I can just copy-paste from the previous one. And because it&amp;rsquo;s free-format, it allows fine-tuning as needed. However, it doesn&amp;rsquo;t have any analytics, and when I set up a system for a week, I have to double-check to see how my weekly tasks align with monthly or yearly goals. Also, at the beginning of the week, I might have one plan, but sometimes the week requires adjustments, and I end up adding more tasks later in the week. It&amp;rsquo;s alright, but the problem is that my original tasks are still there and create a sense of stagnation. Therefore, I don&amp;rsquo;t understand - should I plan better? How much should I reserve for additional tasks? And what&amp;rsquo;s even achievable?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ollama set up and my use cases</title>
       <link>https://timurvafin.blog/posts/ollama_use/</link>
       <pubDate>Sat, 15 Feb 2025 18:42:25 +1100</pubDate>
       <guid>https://timurvafin.blog/posts/ollama_use/</guid>
-      <description>&lt;p&gt;After I successfully installed Ventura to my old mac (see previous post) I went straight to installing Ollama and trying models.
-I have used following youtube tutorial: &lt;a href=&#34;https://www.youtube.com/watch?v=GWB9ApTPTv4&#34;&gt;https://www.youtube.com/watch?v=GWB9ApTPTv4&lt;/a&gt; and I can say it is really good. And Ollama documentation is great as well: &lt;a href=&#34;https://github.com/ollama/ollama/blob/main/README.md&#34;&gt;https://github.com/ollama/ollama/blob/main/README.md&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;So far I tried running llama 3.2 7b and codegemma 7b. After getting used to chat gpt this seems like crazy slow. But, given that I have specific usecases in mind that might still fit me well.&lt;/p&gt;</description>
+      <description>&lt;p&gt;After successfully installing Ventura on my old Mac (see previous post), I went straight to installing Llama and trying out models. I used the following YouTube tutorial: &lt;a href=&#34;https://www.youtube.com/watch?v=GWB9ApTPTv4&#34;&gt;https://www.youtube.com/watch?v=GWB9ApTPTv4&lt;/a&gt;, which I found to be really good. The Llama documentation is also great: &lt;a href=&#34;https://github.com/ollama/ollama/blob/main/README.md&#34;&gt;https://github.com/ollama/ollama/blob/main/README.md&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far, I have tried running Llama 3.2 7B and CodeGemma 7B. After getting used to Chat GPT, this seems like a significant slowdown. However, given that I have specific use cases in mind, it might still be suitable for me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Upgrading OS on my MacbookPro Mid-2012</title>
       <link>https://timurvafin.blog/posts/upgadingmac/</link>
       <pubDate>Fri, 14 Feb 2025 21:40:26 +1100</pubDate>
       <guid>https://timurvafin.blog/posts/upgadingmac/</guid>
-      <description>&lt;p&gt;I love my MacBook Pro mid-2012. It served me well until I bought the one with M1 chip. I waited for a long time to updgrade because each new line of the macbooks seemed to be worth somehow. I was really frustrated when Apple decided to solder RAM and then removed the ports until it reached an absolutely trash when they introduced useless touchbar, removed usb-a and hdmi ports, had problems with display cable and an awful keyboard.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I love my MacBook Pro mid-2012; it served me well until I bought the one with the M1 chip. I waited for a long time to upgrade because each new line of MacBooks seemed somehow worth it. However, I was really frustrated when Apple decided to solder RAM and then removed the ports, which eventually reached an absolute low point when they introduced the useless Touch Bar, removed USB-A and HDMI ports, had problems with the display cable, and featured an awful keyboard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to My Blog: A Place for Code and Projects</title>
