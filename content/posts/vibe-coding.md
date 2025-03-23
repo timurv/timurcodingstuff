@@ -4,28 +4,27 @@ draft: false
 title: 'Vibe Coding'
 disableShare: true
 ---
-A few words about such new trend called "vibe coding". 
-On one hand, I am amazed that you can create apps with zero knowledge of programming. 
-However, I started programming at the age of 12, so it does look weird to say the least to see people who do not understand what is going on can create something that looks yes, generic but not too bad.
-On the other hand, I could not miss the trend and it would be unfair to judge without trying. 
-So here are my 2 cents about main tools that started the trend and some alternatives that I've tried and would like to try later.
+A few words about the new trend called "vibe coding". 
+On one hand, I'm amazed that you can create apps with zero knowledge of programming. 
+However, having started programming at the age of 12, it seems weird to see people who don't understand what's going on creating something that looks generic but not too bad.
+On the other hand, I couldn't miss out on this trend and it would be unfair to judge without trying. 
+So here are my thoughts on the main tools that started the trend and some alternatives that I've tried or plan to try later.
 
 ## Cursor  https://www.cursor.com/
-To say that I was impressed is to say nothing. Just chatting to the codebase in plain english is amazing. Like it is your real personal assistant that does what you want and does it instant and good enough. 
-On the dowside I found following:
- - it does not know best practices and sometimes can write a bunch of code that is waay worse than it could be. Results are heavy application, incosotent behaviour and so on. My personal example was that I tried to have a little bit more responsive on the client side and t started to suggest adding SWR and ReactQuery to my relatively simple Next JS task manager. In particular, the issue was I had a component that created task and then another component that renders tasks. And I already had actions set up. Simple soltion that I ultimately used is just replacing client component with server component and then simply do reouter.refresh(). If I didn't know it I would have ended up in bloated codebase.
-  - another significant thing that I found out was it suddenly became stupid. Like the code that it wrote initially it then re-wrote multiple times, created bugs, tried to fix the bugs and changed more code, added bugs to another code and so on. I would say it became unusable. When I tried to understand what happened, I realised that the issue was it swithced from Claude3.7 to GPT-4o-mini. And yes, I had a trial pro. After that I decided that I do not want to have a pro subscription, at least now.
+To say that I was impressed is an understatement. Simply chatting with the codebase in plain English is amazing, like having a real personal assistant that does what you want instantly and well enough. 
+However, I found some downsides:
+ - it lacks knowledge of best practices and sometimes writes suboptimal code, resulting in heavy applications and inconsistent behavior. My personal example was trying to make a client-side task manager more responsive; Cursor suggested adding SWR and ReactQuery, which would have bloated the codebase. A simpler solution was to replace the client component with a server component and use `router.refresh()`. If I hadn't known this, I would have ended up with unnecessary complexity.
+ - another significant issue I encountered was that it suddenly became unreliable. The code it initially wrote was rewritten multiple times, introducing bugs and attempting to fix them, which added more bugs to other parts of the code. I realized that the problem occurred when it switched from Claude 3.7 to GPT-4o-mini. Since I had a trial pro subscription at the time, I decided not to continue with a paid subscription.
 
-## Github co-pilot
-Chatting is good, but limited to the ChatGPT models. And I did found out that O3-mini, unfortunately significanly worse than Claude. At least it is twice as cheeper. However, I wanted to experience that power of vibe-coding again that Cursor showed me so I switched to alternative instead.
+## Github Co-Pilot
+While chatting is useful, it's limited to ChatGPT models. Unfortunately, O3-mini is significantly worse than Claude, although it's twice as cheap. However, I wanted to experience the power of vibe-coding again that Cursor showed me, so I switched to an alternative instead.
 
 ## Alternative
 ### Cline
-So I discoverd that there is an extension to the VS code that is similar to Cursor chat, however it allows to use any model of your choice, including local ones. The extension called Cline https://app.cline.bot/. So I started testing it. Tested local models - nothing good, too slow and inefficient. Moved on to OpenAI 03-mini - it's way better but same as co-pilot. And then I connected Claude 3.7. And oh, boy, the vibe is back. It simply delivers. I don't know what to add. Ah, wait, I know. Prices. 3.7 is expensive. So need to be very mindful about it. And also I would like to add that I really like plan and act modes. So if you have feature you simple plan and discuss implementation and then just click "Act" and boom - the feature is implemented. Amazing. I would say that for me that works even better. It shows the pricing on top, so you know how much you really spend on developing the feature as well. Highly recommend.
+I discovered a VS Code extension called Cline (https://app.cline.bot/), which allows using any model of your choice, including local ones. I started testing it with local models, but they were too slow and inefficient. Moving on to OpenAI 03-mini was an improvement, but it's similar to Co-Pilot. When I connected Claude 3.7, the vibe was back - it simply delivers. One thing to note is that 3.7 is expensive, so you need to be mindful of costs. I also appreciate the plan and act modes; if you have a feature in mind, you can plan and discuss implementation, then click "Act" and see it implemented. This works even better for me, as it shows pricing estimates on top.
 
-
-### Way forward
-At the moment combination of Cline and free tier of co-pilot work for me. However, it would be interesting to test Deepseek models as well. Also, there is another tool called Continue https://www.continue.dev/ which might be a good alternative to Cline. And another interesting project called Aider https://github.com/Aider-AI/aider, however it is designed for terminal. As for autocompletions there is a project called Supermaven https://supermaven.com/ which I might consider as well later.
+### Way Forward
+Currently, combining Cline with the free tier of Co-Pilot works for me. However, I'm interested in testing Deepseek models as well. Another tool called Continue (https://www.continue.dev/) might be a good alternative to Cline. There's also an interesting project called Aider (https://github.com/Aider-AI/aider), although it's designed for terminal use. For autocompletions, I might consider Supermaven (https://supermaven.com/) later.
 
 
 
