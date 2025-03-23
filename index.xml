@@ -6,8 +6,19 @@
     <description>Recent content on Timur Coding Stuff</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Mar 2025 17:23:04 +1100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 21:22:33 +1100</lastBuildDate>
     <atom:link href="https://timurvafin.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vibe Coding</title>
+      <link>https://timurvafin.blog/posts/vibe-coding/</link>
+      <pubDate>Sun, 23 Mar 2025 21:22:33 +1100</pubDate>
+      <guid>https://timurvafin.blog/posts/vibe-coding/</guid>
+      <description>&lt;p&gt;A few words about the new trend called &amp;ldquo;vibe coding&amp;rdquo;.
+On one hand, I&amp;rsquo;m amazed that you can create apps with zero knowledge of programming.
+However, having started programming at the age of 12, it seems weird to see people who don&amp;rsquo;t understand what&amp;rsquo;s going on creating something that looks generic but not too bad.
+On the other hand, I couldn&amp;rsquo;t miss out on this trend and it would be unfair to judge without trying.
+So here are my thoughts on the main tools that started the trend and some alternatives that I&amp;rsquo;ve tried or plan to try later.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Task managers</title>
       <link>https://timurvafin.blog/posts/taskmanagers/</link>
